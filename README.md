@@ -2,7 +2,7 @@
  - B.S. in Cyber Security Systems.
  - I [speedrun](https://en.wikipedia.org/wiki/Speedrunning) retro video games from the Kirby series. Most of my work is tailored toward making community tools and resources to help with learning and practicing these games.
  - I also enjoy developing web apps in JS, and games through the Godot engine.
- - Head developer of [kirbyspeedrun.com](https://kirbyspeedrun.com).
+ - Head developer and administrator of [kirbyspeedrun.com](https://kirbyspeedrun.com).
  - I am proficient in 65c816 (SNES) and z80 (GameBoy) assembly. Feel free to message me if you are interested in collaborating.
 
 
